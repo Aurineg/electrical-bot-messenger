@@ -25,9 +25,9 @@ searchHouse_Bedrooms (.*) chambres
 searchHouse cherche les appartements
 searchHouse recherche un bien
 searchHouse trouve un bien
-searchHouse à vendre
-searchHouse Maisons à vendre
-searchHouse Appartement à vendre
+searchHouse A vendre
+searchHouse Maisons A vendre
+searchHouse Appartement A vendre
 priceChanges changements de prix
 
 hi bonjour
